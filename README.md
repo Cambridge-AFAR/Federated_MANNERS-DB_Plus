@@ -7,13 +7,13 @@ It is critical for robots to explore Federated Learning (FL) settings where seve
 
 ## Table of Contents
 
-- [MannersDB+ Dataset](#dataset)
+- [MANNERS-DB+ Dataset](#dataset)
 - [Installation](#installation)
 - [Training](#training)
 - [Citation](#citation)
 - [Acknowledgement](#acknowledgement)
 
-## MannersDB+ Dataset
+## MANNERS-DB+ Dataset
 The dataset_examples folder contains example scenes from Pepper, NAO and PR2 robots, and the full dataset will be publicly available after acceptance.
 
 ## Installation
