@@ -14,7 +14,7 @@ It is critical for robots to explore Federated Learning (FL) settings where seve
 - [Acknowledgement](#acknowledgement)
 
 ## MannersDB+ Dataset
-The dataset folder contains example scenes from Pepper, NAO and PR2 robots, and the full dataset will be publicly available after acceptance.
+The dataset_examples folder contains example scenes from Pepper, NAO and PR2 robots, and the full dataset will be publicly available after acceptance.
 
 ## Installation
 
